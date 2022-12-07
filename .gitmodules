@@ -1,0 +1,3 @@
+[submodule "nord-alacritty"]
+	path = nord-alacritty
+	url = https://github.com/arcticicestudio/nord-alacritty.git
