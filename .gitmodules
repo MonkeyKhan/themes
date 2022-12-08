@@ -1,3 +1,6 @@
 [submodule "nord-alacritty"]
 	path = nord-alacritty
 	url = https://github.com/arcticicestudio/nord-alacritty.git
+[submodule "alacritty"]
+	path = alacritty
+	url = https://github.com/dracula/alacritty.git
